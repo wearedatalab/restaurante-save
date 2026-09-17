@@ -5,6 +5,8 @@ en Jalisco, Querétaro y Nuevo León), partiendo del HTML original de `restauran
 
 HTML estático, sin dependencias ni build de JS. Se sube tal cual a cualquier hosting.
 
+**Demo pública:** https://wearedatalab.github.io/restaurante-save/
+
 ---
 
 ## Qué cambió respecto al sitio original
@@ -135,5 +137,8 @@ python -m http.server 8827 --directory restaurante-save
 
 ## Publicar
 
-Sube todo salvo `_originales/`, `__pycache__/` y los `*.py`. Antes de publicar, cambia `SITIO`
-en `_data.py` si el dominio final no es `https://restaurante-save.mx` y vuelve a generar.
+Sube todo salvo `_originales/`, `__pycache__/` y los `*.py`.
+
+`SITIO` en `_data.py` apunta hoy a la demo de GitHub Pages, que es lo que usan `canonical`,
+Open Graph, el sitemap y el JSON-LD. **Al pasar a producción cámbialo a
+`https://restaurante-save.mx` y vuelve a ejecutar `python _build.py`.**
