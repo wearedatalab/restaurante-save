@@ -1,0 +1,64 @@
+# Restaurante SAVE
+
+> Restaurante de pescados y mariscos de estilo sinaloense, nombrado en honor a Guasave,
+> Sinaloa. Sirve recetas tradicionales de la playa Las Glorias y creaciones propias, con
+> producto traído directamente del Mar de Cortés con calidad de exportación. Opera seis
+> sucursales en Jalisco, Querétaro y Nuevo León (México).
+
+## Datos clave
+
+- **Nombre:** Restaurante SAVE (también "SAVE Restaurante")
+- **Tipo de cocina:** pescados y mariscos, cocina sinaloense, cocina mexicana
+- **Origen del nombre:** homenaje a Guasave, Sinaloa
+- **Origen del producto:** Mar de Cortés (Golfo de California), calidad de exportación
+- **Certificaciones:** Distintivo H (Secretaría de Turismo) y Empresa Socialmente Responsable (ESR)
+- **Servicios:** restaurante, eventos y banquetes, bar y coctelería, bodas, servicio a domicilio
+- **Reservaciones:** en línea vía CoverManager, por teléfono o por WhatsApp
+- **A domicilio:** Uber Eats y Rappi
+- **En todas las sucursales:** estacionamiento propio, valet parking gratuito, área de niños,
+  transmisión de eventos deportivos, áreas de fumadores y no fumadores
+
+## Sucursales
+
+- **SAVE Av. Patria** — Av. Patria 574, Jardines de Guadalupe, 44030 Zapopan, Jal. · Tel. 33 3629 3124
+- **SAVE Av. México** — Av. México 3388, Monraz, 44670 Guadalajara, Jal. · Tel. 33 3813 1194
+- **SAVE Av. Guadalupe** — Av. Guadalupe 721, Chapalita, Guadalajara, Jal. · Tel. 33 3629 3124
+- **SAVE Querétaro** — Paseo de la República 10874, 76127 Santiago de Querétaro, Qro. · Tel. 442 325 0787
+- **SAVE San Pedro** — Calle Valle Sol 101, La Diana, San Pedro Garza García, N.L. · Tel. 81 8363 5971
+- **SAVE Carretera Nacional** — Carr. Nacional km 973 N.º 4500, Col. Valle Alto, Nivel 3, Monterrey, N.L.
+
+## Secciones de la carta
+
+- **Entremeses** (16 platillos): Para abrir la mesa. Mariscos fríos, molcajetes para compartir y los caldos que despiertan el apetito.
+- **Tostadas y ceviches** (17 platillos): El corazón crudo de la costa sinaloense: limón, chile y producto que llegó fresco esa mañana.
+- **Variedades del taco** (16 platillos): De la tortilla de harina del norte al vampiro y la costra de queso. Los que se piden de dos en dos.
+- **Camarón estilo SAVE** (15 platillos): Quince maneras de entender el mismo camarón azul del Mar de Cortés. Aquí viven los clásicos de la casa.
+- **Zarandeados y a las brasas** (13 platillos): El fuego de la palapa. Piezas enteras, lonjas y langostinos que se cotizan por kilo según la pesca del día.
+- **Filetes y especialidades** (15 platillos): Rellenos, gratinados y bañados. La cocina caliente de SAVE en su versión más ambiciosa.
+- **Pulpo estilo SAVE** (3 platillos): Pulpo suave, guisado o al fuego, con tres personalidades distintas.
+- **Light** (5 platillos): Al vapor, a la plancha y en ensalada: la misma materia prima, sin capeado ni crema.
+- **Cortes finos** (4 platillos): Porque no toda la mesa viene por mariscos.
+- **Guarniciones** (10 platillos): —
+- **Postres** (12 platillos): —
+
+## Platillos más representativos
+
+Camarones SAVE (capeados en aderezo oriental), aguachile verde/rojo/negro/tatemado,
+Chilitaco, Cóctel SAVE especial, pulpo a las brasas, Molcajete Guasaveño (2 personas),
+Mariscada SAVE (3 personas), pescado zarandeado, filete Rey, atún cítrico.
+
+## Páginas
+
+- [Inicio](https://wearedatalab.github.io/restaurante-save/): presentación, especialidades y sucursales
+- [Menú](https://wearedatalab.github.io/restaurante-save/menu.html): carta completa con todas las secciones y descripciones
+- [Sucursales](https://wearedatalab.github.io/restaurante-save/sucursales.html): direcciones, teléfonos, WhatsApp y mapas
+- [Reservar](https://wearedatalab.github.io/restaurante-save/reservar.html): reservación en línea y por WhatsApp
+- [Eventos](https://wearedatalab.github.io/restaurante-save/eventos.html): comidas de empresa, cenas navideñas, bodas y banquetes
+- [Nosotros](https://wearedatalab.github.io/restaurante-save/nosotros.html): historia y origen del restaurante
+- [Blog](https://wearedatalab.github.io/restaurante-save/blog.html)
+
+## Notas
+
+Los precios no se publican en línea porque varían con la temporada de pesca; las piezas
+enteras (huachinango, pargo, róbalo, totoaba, langosta) se cotizan por kilo según la pesca
+del día.

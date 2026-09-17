@@ -1,0 +1,13 @@
+{
+  "name": "Restaurante SAVE",
+  "short_name": "SAVE",
+  "description": "Pescados y mariscos de Guasave, Sinaloa. Producto del Mar de Cortés.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFAF5",
+  "theme_color": "#04202B",
+  "lang": "es-MX",
+  "icons": [
+    {"src": "img/logoinicio.png", "sizes": "256x130", "type": "image/png"}
+  ]
+}
